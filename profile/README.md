@@ -1,6 +1,11 @@
-# machtsinn
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/machtsinnch/.github/main/profile/machtsinn-dark.svg">
+    <img alt="macht·sinn" src="https://raw.githubusercontent.com/machtsinnch/.github/main/profile/machtsinn-light.svg" width="360">
+  </picture>
+</div>
 
-**AI, die Sinn macht.** · **AI that actually makes sense.**
+<p align="center"><strong>AI, die Sinn macht.</strong> · <strong>AI that actually makes sense.</strong></p>
 
 Wir sind eine gründergeführte Schweizer AI-Enablement-Firma. Wir helfen Schweizer Teams,
 AI von zufälligem Experimentieren in verlässliche Workflows, strukturierten Kontext und
